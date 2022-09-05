@@ -1,0 +1,41 @@
+@media (max-width: 1140px) {
+    .hamburg {
+        display: block !important;
+        margin-left: 5px;
+    }
+
+    .middle-header {
+        display: none;
+    }
+
+    .navv-first {
+        max-width: 60%;
+        height: 39%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+
+    }
+
+    .navv-first li a {
+        color: #fff;
+    }
+
+    .navv-first li a:hover {
+        color: #f4511e;
+
+    }
+
+    .navv-first li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        width: 70%;
+
+    }
+
+}
+
